@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-20T11:20:37.430292+00:00",
+  "updated_at": "2026-06-20T14:09:45.552820+00:00",
   "data_referencia": "2026-06-20",
   "airport_icao": "SBSP",
   "airport_name": "Sao Paulo / Congonhas",
   "airport_info": {
-    "sg_aerodromo_icao": "SBPV",
-    "sg_aerodromo_iata": "PVH",
-    "descricao": "GOVERNADOR JORGE TEIXEIRA DE OLIVEIRA - PORTO VELHO - RO - BRASIL"
+    "sg_aerodromo_icao": "SBSP",
+    "sg_aerodromo_iata": "CGH",
+    "descricao": "CONGONHAS - SÃO PAULO - SP - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
